@@ -1,0 +1,39 @@
+C:\Users\Lenovo\Desktop\Registration project\Registration App\bin\Debug\Registration App.exe.config
+C:\Users\Lenovo\Desktop\Registration project\Registration App\bin\Debug\Registration App.exe
+C:\Users\Lenovo\Desktop\Registration project\Registration App\bin\Debug\Registration App.pdb
+C:\Users\Lenovo\Desktop\Registration project\Registration App\bin\Debug\Guna.UI2.dll
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration App.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration_App.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration_App.Splash.resources
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration App.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration App.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration App.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration App.exe
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration App.pdb
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration_App.Login.resources
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration_App.Home.resources
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration_App.AddStudent.resources
+C:\Users\Lenovo\Desktop\Registration project\Registration App\bin\Debug\ar\Registration App.resources.dll
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration_App.Login.ar.resources
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\ar\Registration App.resources.dll
+C:\Users\Lenovo\Desktop\Registration project\Registration App\obj\Debug\Registration_App.AddStudent2.resources
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration App.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration_App.AddStudent.resources
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration_App.Home.resources
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration_App.Login.resources
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration_App.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration_App.Splash.resources
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration_App.Login.ar.resources
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration App.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration App.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration App.exe
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration App.pdb
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\bin\Debug\Registration App.exe.config
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\bin\Debug\Registration App.exe
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\bin\Debug\Registration App.pdb
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\bin\Debug\ar\Registration App.resources.dll
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\bin\Debug\Guna.UI2.dll
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\ar\Registration App.resources.dll
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration App.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration_App.SearchForm.resources
+C:\Users\Lenovo\OneDrive\سطح المكتب\Registration project\Registration App\obj\Debug\Registration_App.EditingForm.resources
